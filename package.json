@@ -1,0 +1,20 @@
+{
+  "name": "js-workshop-2015-06-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serkanserttop/js-workshop-2015-06-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanserttop/js-workshop-2015-06-19/issues"
+  },
+  "homepage": "https://github.com/serkanserttop/js-workshop-2015-06-19"
+}
