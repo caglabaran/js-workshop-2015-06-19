@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/serkanserttop/js-workshop-2015-06-19/issues"
   },
-  "homepage": "https://github.com/serkanserttop/js-workshop-2015-06-19"
+  "homepage": "https://github.com/serkanserttop/js-workshop-2015-06-19",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
